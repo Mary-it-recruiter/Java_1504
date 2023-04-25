@@ -21,3 +21,4 @@ public class task_3 {
         System.out.printf("%d %s %d = %d", a, o, b, calc(a, o, b));
     }
 }
+

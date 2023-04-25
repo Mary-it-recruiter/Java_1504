@@ -27,3 +27,5 @@ public class task_4 {
         else System.out.println("Решения нет");
     }
 }
+
+

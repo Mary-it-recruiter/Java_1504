@@ -24,3 +24,6 @@ public class task_1 {
         numbTriNat(num);
     }
 }
+
+
+
